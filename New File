@@ -1,0 +1,16 @@
+<!DOCTYPE>
+<html>
+<head>
+<meta charset = "UTF-8">
+<title>ciag fibonacciego</title>
+<script type="text/javascript" src="fibonacci_script.js"></script>
+</head>
+<body>
+
+<form name="ciag" onsubmit="return fibo()">
+Podaj numer elementu ci¹gu Fibonacciego, który chcesz obliczyæ: 
+<br><input type="number" name="pozycja" required><br>
+<input type="submit" value="Pokaz"></form>
+
+</body>
+</html>
