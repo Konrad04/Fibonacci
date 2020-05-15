@@ -1,3 +1,3 @@
 # Fibonacci
 Simple Fibonacci code 
-Technologies: HTML & JavaScript
+# Technologies: HTML & JavaScript
