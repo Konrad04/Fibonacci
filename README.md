@@ -1,2 +1,3 @@
 # Fibonacci
-Simple Fibonacci code for HTML & JS;
+Simple Fibonacci code 
+Technologies: HTML & JavaScript
