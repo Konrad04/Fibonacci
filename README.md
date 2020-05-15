@@ -1,3 +1,5 @@
 # Fibonacci
-## Simple Fibonacci code 
-## Technologies: HTML & JavaScript
+### Simple Fibonacci code 
+### Technologies: HTML & JavaScript
+### If + loop for
+### Input
